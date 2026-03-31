@@ -17,7 +17,6 @@
 
 **Available Tools and Resources** 
 
-Several platforms and software tools are used to develop and implement cgMLST schemes: 
-- Databases: Major repositories include PubMLST, EnteroBase, and the cgMLST.org Nomenclature Server.
+- Databases: Major repositories include BIGSdb-Lm (https://bigsdb.pasteur.fr/listeria/),PubMLST (the same as BIGSdb-Lm), EnteroBase（https://enterobase.warwick.ac.uk/), and the cgMLST.org Nomenclature Server.
 - Software: Popular analysis tools include Ridom SeqSphere+ and the open-source chewBBACA.
 - Emerging Methods: Hash-based cgMLST is a newer approach that uses compressed digital "hashes" to represent gene sequences, allowing labs to share data quickly without needing a centralized server to assign new allele numbers
