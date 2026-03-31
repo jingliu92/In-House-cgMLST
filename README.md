@@ -5,9 +5,12 @@
 **Key Features of cgMLST**
 
 - High Resolution: It can distinguish between very closely related strains that might appear identical using traditional 7-gene MLST.
-
 - Standardized Nomenclature: Because it uses a fixed set of target genes, laboratories worldwide can compare results using a universal naming system.
-
 - Core vs. Accessory Genome: A "core genome" is defined as loci present in >95% of the species' strains. Genes not in the core are considered part of the "accessory genome".
-  
 - Allele-Based: Like traditional MLST, it identifies variation by assigning unique numbers to different versions (alleles) of each gene.
+
+**Common Applications**
+- Outbreak Investigations: Identifying whether patients in a hospital are infected with the exact same bacterial strain or different ones.
+- Surveillance: Monitoring the global spread of antibiotic-resistant "high-risk" clones.
+- Phylogenetic Analysis: Understanding how different lineages of a species are related over time.
+- 
