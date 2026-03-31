@@ -14,7 +14,8 @@
 - Surveillance: Monitoring the global spread of antibiotic-resistant "high-risk" clones.
 - Phylogenetic Analysis: Understanding how different lineages of a species are related over time.
 
-**Available Tools and Resources** \
+
+**Available Tools and Resources** 
 
 Several platforms and software tools are used to develop and implement cgMLST schemes: 
 - Databases: Major repositories include PubMLST, EnteroBase, and the cgMLST.org Nomenclature Server.
